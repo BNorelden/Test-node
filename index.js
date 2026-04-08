@@ -18,7 +18,7 @@ async function main() {
 }
 
 app.get("/", (req, res) => {
-  res.json("Checking out Travis-CI!");
+  res.json("Travis-CI was an F 💀💀💀. Back to Github Actions!!!");
 });
 
 app.listen(PORT, () => {
